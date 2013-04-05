@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4506
+
+This plugin provides text objects for common LaTeX stuff that are not
+conveniently described by builtin Vim text-objects.
+
+textobj-latex depends on Kana's textobj-user plugin (vimscript #2100).
+
+Project site: https://github.com/rbonvall/vim-textobj-latex
